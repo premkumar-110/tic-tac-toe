@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "//premkumar-110.github.io/tic-tac-toe/static/css/main.347e5854.css",
+    "main.js": "//premkumar-110.github.io/tic-tac-toe/static/js/main.e2570a12.js",
+    "index.html": "//premkumar-110.github.io/tic-tac-toe/index.html",
+    "main.347e5854.css.map": "//premkumar-110.github.io/tic-tac-toe/static/css/main.347e5854.css.map",
+    "main.e2570a12.js.map": "//premkumar-110.github.io/tic-tac-toe/static/js/main.e2570a12.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.347e5854.css",
+    "static/js/main.e2570a12.js"
+  ]
+}
