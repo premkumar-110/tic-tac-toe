@@ -46,7 +46,7 @@ function App() {
     }
     if(matrix[0][2] && matrix[0][2]===matrix[1][1] && matrix[0][2]===matrix[2][0])
     {
-      setwin("THE WINNER IS"+matrix[0][2]);
+      setwin("THE WINNER IS "+matrix[0][2]);
     }
     if(countcell===9){
       setwin("MATCH IS DRAW !!!");
