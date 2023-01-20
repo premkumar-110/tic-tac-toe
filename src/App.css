@@ -65,3 +65,15 @@ button:hover{
   font-size: 50px;
   font-weight: bold;
 }
+@media (max-width:500px) {
+  .row{
+    display: flex;
+    height: 10vh;
+  }
+  .cell{
+    width: 10vh;
+  }
+  .game{
+    font-size: 35px;
+  }
+}
