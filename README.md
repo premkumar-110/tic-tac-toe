@@ -1,6 +1,6 @@
 # Tic-Tac-Toe Game
 
-![Tic-Tac-Toe](https://your-image-link.com) <!-- Replace with a relevant project image -->
+![Screenshot 2023-10-23 154130](https://github.com/premkumar-110/weather-info/assets/122764871/8e43c115-b876-46b6-9482-a91778f24a79)
 
 Welcome to the Tic-Tac-Toe game! This project brings the classic two-player game to life with a modern twist using ReactJS.
 
