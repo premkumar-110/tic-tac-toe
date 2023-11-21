@@ -1,4 +1,4 @@
-<!--- # Tic-Tac-Toe Game
+# Tic-Tac-Toe Game
 
 ![Screenshot 2023-10-23 154130](https://github.com/premkumar-110/weather-info/assets/122764871/8e43c115-b876-46b6-9482-a91778f24a79)
 
