@@ -1,12 +1,12 @@
 # Tic-Tac-Toe Game
 
-![Screenshot 2023-10-23 154130](https://github.com/premkumar-110/weather-info/assets/122764871/8e43c115-b876-46b6-9482-a91778f24a79)
+![tictactoe](https://github.com/premkumar-110/tic-tac-toe/assets/122764871/f0a32364-b4d8-4d3b-83ea-06fb92f5c613)
 
 Welcome to the Tic-Tac-Toe game! This project brings the classic two-player game to life with a modern twist using ReactJS.
 
 ## Live Demo
 
-Check out the [Live Demo](https://premkumar-110.github.io/tic-tac-toe/) 
+Check out the [Live Demo](https://cross-tictactoe.vercel.app/) 
 
 ## Github Repository
 
@@ -22,7 +22,7 @@ Explore the project's code on [GitHub](https://github.com/premkumar-110/tic-tac-
 
 ## How to Play
 
-1. Visit the [Live Demo](https://premkumar-110.github.io/tic-tac-toe/) to access the game.
+1. Visit the [Live Demo](https://cross-tictactoe.vercel.app/) to access the game.
 2. The game will automatically assign Player 1 as 'X' and Player 2 as 'O'.
 3. Click on the grid cells to make your moves during the game, taking turns between Player 1 and Player 2.
 4. The game will automatically detect wins, draws, or losses and display the results accordingly.
